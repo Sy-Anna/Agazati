@@ -1,2 +1,2 @@
-nevem = "Annaaa"
+nevem = "Anna"
 print(f"Hello {nevem}")
